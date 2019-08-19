@@ -1,0 +1,49 @@
+
+body{
+    
+    background-image: linear-gradient(rgb(233, 189, 123),rgb(247, 16, 16));
+}
+
+header{
+    text-align: center;
+    color: blanchedalmond;
+    font-size: 26%;
+
+}
+img{
+    
+    position: relative;
+   text-align: center
+}
+
+body{
+    text-align: center;
+    color: blanchedalmond;
+    
+}
+
+a{
+    color: blanchedalmond;
+    text-decoration: none;
+    
+}
+
+section{
+    background-image: linear-gradient(rgb(233,189,123),rgb(224, 150, 90));
+}
+button{ 
+    color: rgb(117, 86, 46);
+}
+
+.fotofundo{
+    position: relative;
+    text-align: center;
+    color: antiquewhite;
+}
+
+.nome{
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
