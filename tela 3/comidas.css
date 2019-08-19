@@ -28,7 +28,7 @@ header{
 
 p{
     clear: right;
-    float: 
+    float: ;
     font-size: 130%;
     color: antiquewhite;
     text-shadow: 1px 1px 1px #000000;
@@ -40,10 +40,20 @@ footer{
 }
 
 .fotofundo{
- 
+    position: relative;
+    left: 350px;
+    height: 255px;
+    width: 255px;
+
 }
 
 .nome{
-   float: right;
+  position: absolute;
+  left: 605px;
+  top: 100px;
+  font-size: 40px;
+  
+
+  
  
 }
